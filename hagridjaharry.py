@@ -1,1 +1,1 @@
-print ("Tere maailm!")
+print ("Kustut see")
